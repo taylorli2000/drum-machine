@@ -1,0 +1,27 @@
+#currentClip {
+  min-width: 43%;
+  text-align: center;
+  background-color: #d8dee9;
+  margin-top: 15px;
+  padding: 12px 0;
+  border-radius: 5px;
+}
+
+.drum-pad {
+  width: 27%;
+  font-size: 20px;
+  margin: 15px;
+  padding: 10px;
+  background-color: #d8dee9;
+  color: #4c566a;
+  border-radius: 5px;
+  border-color: #d8dee9;
+}
+
+.drum-pad:hover {
+  background-color: #e5e9f0;
+}
+
+.drum-pad:active {
+  background-color: #eceff4;
+}

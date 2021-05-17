@@ -1,0 +1,18 @@
+#drum-machine {
+  background-color: #eceff4;
+  color: #4c566a;
+  min-height: 100vh;
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+#title,
+#credit {
+  margin: 6px 0;
+}
+
+#display {
+  background-color: #e5e9f0;
+  min-width: 500px;
+  border-radius: 10px;
+}
